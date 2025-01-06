@@ -1,2 +1,1 @@
-# DataCollectionandStorage
-Data Collection and Storage Project
+This code pulls stock data for Apple from the Alpha Vantage API, cleans it up, and adds technical indicators like RSI, Bollinger Bands, and MACD. It saves the raw data to a JSON file and prepares a detailed DataFrame for analysis.
