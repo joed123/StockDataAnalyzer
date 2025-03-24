@@ -1,4 +1,4 @@
-Python tool that generates csvs for technical analysis for multiple stocks and integrates with Power BI (or choosen visualization tool) for interactive visualization. 
+Python script that generates csvs for technical analysis for multiple stocks and integrates with Power BI (or choosen visualization tool) for interactive visualization. 
 
 Key Features:
 Fetches and analyzes multiple stocks (AAPL, MSFT, GOOGL, etc.)
